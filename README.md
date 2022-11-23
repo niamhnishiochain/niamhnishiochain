@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📍 Based in Barcelona
-- 🗺️ Working at RTLab as a Data Science with a focus on geospatial data
+- 🗺️ Working at RTLab as a data scientist with a focus on geospatial data
 - 👓 Experienced in Python, R, SQL, Stata, QGis
 
 <!--
