@@ -2,7 +2,7 @@
 
 - 📍 Based in Barcelona
 - 🗺️ Working at RTLab as a data scientist with a focus on geospatial data
-- 👓 Experienced in Python, R, SQL, Stata, QGis
+- 👓 Experienced in Python, R, SQL, Stata, QGis, Earth Engine
 
 <!--
 **niamhnishiochain/niamhnishiochain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
