@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📍 Based in Barcelona
-- 🗺️ Working at RTLab as a data scientist with a focus on geospatial data
+- 🗺️ Working at CIDH as a data scientist with a focus on early warnings and monitoring democratic backsliding
 - 👓 Experienced in Python, R, SQL, Stata, QGis, Earth Engine
 
 <!--
