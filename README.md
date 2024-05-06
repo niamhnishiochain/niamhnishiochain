@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 📍 Based in Barcelona
-- 🗺️ Working at CIDH as a data scientist with a focus on early warnings and monitoring democratic backsliding
+- 📍 Based in ...
+- 🌱 Working at CIDH as a data scientist with a focus on early warnings and monitoring democratic backsliding
 - 👓 Experienced in Python, R, SQL, Stata, QGis, Earth Engine
+- 👂 Always open to learning and collaboration - reach out!
 
 <!--
 **niamhnishiochain/niamhnishiochain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
