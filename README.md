@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📍 Based in Barcelona
-- 🌱 Working at [CIDH](https://www.oas.org/es/cidh/) as a data scientist with a focus on early warnings and monitoring democratic backsliding
+- 🌱 Working at as a data scientist
 - 👓 Experienced in Python, R, SQL, Stata, QGis, Earth Engine
 - 👂 Always open to learning and collaboration - reach out!
 
