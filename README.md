@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📍 Based in Barcelona
-- 🌱 Working at as a data scientist
+- 🌱 Working at ACLED as a junior data scientist
 - 👓 Experienced in Python, R, SQL, Stata, QGis, Earth Engine
 - 👂 Always open to learning and collaboration - reach out!
 
